@@ -1,2 +1,3 @@
-# example-google-web-search
-Example: Googe web search
+# Example: Googe web search
+
+<https://go.dev/blog/context>
